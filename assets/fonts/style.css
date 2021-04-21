@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'doubt';
+   font-display: swap;
+   src: url('doubt/font.ttf');
+}
+@font-face {
+   font-family: 'PopArt-Regular';
+   font-display: swap;
+   src: url('PopArt-Regular/font.ttf');
+}
